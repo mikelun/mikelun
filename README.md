@@ -1,6 +1,6 @@
 ### Welcome
 #### I'm Mike
-##### GameDev and P2P genius
+##### I love GameDev and P2P technologies
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikelun&show_icons=true&theme=radical)

@@ -1,6 +1,5 @@
 ### Welcome
-#### I'm Mike
-##### I love GameDev and P2P technologies
+#### Currently developing United Meta University
 
 
 <!--

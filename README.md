@@ -1,5 +1,5 @@
-### Welcome
-#### Currently Developing PFPChat
+### SF Bay Area
+#### Making Something People Want
 
 
 <!--
